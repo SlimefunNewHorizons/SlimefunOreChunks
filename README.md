@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/DrakesCraft-Labs/SlimefunOreChunks/main/banner.svg" alt="SlimefunOreChunks banner" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SlimefunNewHorizons/SlimefunOreChunks/main/banner.svg" alt="SlimefunOreChunks banner" width="100%"></p>
 
 # SlimefunOreChunks
 
@@ -29,7 +29,7 @@ mvn -B -ntp clean package
 ```
 
 Install the JAR from `target/` together with
-[`Slimefun4-Drake`](https://github.com/DrakesCraft-Labs/Slimefun4-Drake).
+[`Slimefun4-Drake`](https://github.com/SlimefunNewHorizons/Slimefun4-Drake).
 
 ## Provenance
 
@@ -40,7 +40,7 @@ The original authorship and MIT license remain intact.
 
 ## 📄 License & Upstream Attribution
 
-This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs).
+This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/SlimefunNewHorizons).
 
 - **Original Project:** Created by the upstream authors and the open-source community.
 - **DrakesCraft Optimizations:** Modernized for Paper/Purpur 1.21.11+, Java 21, high concurrency, asynchronous safety, and exploit/duplication prevention.
