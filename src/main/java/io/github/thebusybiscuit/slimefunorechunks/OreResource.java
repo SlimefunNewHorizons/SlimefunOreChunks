@@ -7,7 +7,7 @@ import org.bukkit.World.Environment;
 import org.bukkit.block.Biome;
 import org.bukkit.inventory.ItemStack;
 
-import com.github.drakescraft_labs.slimefun4.api.geo.GEOResource;
+import io.github.thebusybiscuit.slimefun4.api.geo.GEOResource;
 
 public class OreResource implements GEOResource {
 	
