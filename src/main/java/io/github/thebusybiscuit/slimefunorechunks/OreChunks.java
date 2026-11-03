@@ -69,7 +69,7 @@ public class OreChunks extends JavaPlugin implements SlimefunAddon {
 
 	@Override
 	public String getBugTrackerURL() {
-		return "https://github.com/DrakesCraft-Labs/SlimefunOreChunks/issues";
+		return "https://github.com/SlimefunNewHorizons/SlimefunOreChunks/issues";
 	}
 
 }
